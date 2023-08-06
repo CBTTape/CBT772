@@ -1,0 +1,17 @@
+2023-08-06 06:59:52.782647 - Initialized conversion of CBT772
+2023-08-06 06:59:53.471883 - Received CBT.V505.FILE772.PDS from FILE772.XMI 
+2023-08-06 06:59:53.474572 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:59:53.475659 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:59:53.476634 - Found @FILE772.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/@FILE772
+2023-08-06 06:59:53.478462 - Found ASM.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/ASM
+2023-08-06 06:59:53.479556 - Found C.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/C
+2023-08-06 06:59:53.479564 - Found CLIST.bin containing application/octet-stream, moved to PDS/CLIST
+2023-08-06 06:59:53.481950 - Found H.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/H
+2023-08-06 06:59:53.482870 - Found HELP.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/HELP
+2023-08-06 06:59:53.483759 - Found INCLUDE.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/INCLUDE
+2023-08-06 06:59:53.484610 - Found MACLIB.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/MACLIB
+2023-08-06 06:59:53.485509 - Found MSG.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/MSG
+2023-08-06 06:59:53.486376 - Found PANEL.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/PANEL
+2023-08-06 06:59:53.491886 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE772.PDS
+2023-08-06 06:59:53.498793   - Received RECFM=U data, stored XMIT file as CBT772/PDSLOAD.xmi
+2023-08-06 06:59:53.500006 - Found PLI.txt (text/plain) in CBT.V505.FILE772.PDS, moved to PDS/PLI
