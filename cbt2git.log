@@ -1,0 +1,17 @@
+2025-04-13 22:43:03.518775 - Received CBT.V508.FILE772.PDS from FILE772.XMI 
+2025-04-13 22:43:03.519802 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:43:03.519884 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/$PDSLOAD
+2025-04-13 22:43:03.519948 - Found @FILE772.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/@FILE772
+2025-04-13 22:43:03.521078 - Found ASM.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/ASM
+2025-04-13 22:43:03.521253 - Found C.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/C
+2025-04-13 22:43:03.521906 - Found CLIST.bin (application/octet-stream) in CBT.V508.FILE772.PDS, moved to PDS/CLIST
+2025-04-13 22:43:03.521980 - Found H.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/H
+2025-04-13 22:43:03.522061 - Found HELP.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/HELP
+2025-04-13 22:43:03.522217 - Found INCLUDE.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/INCLUDE
+2025-04-13 22:43:03.522294 - Found MACLIB.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/MACLIB
+2025-04-13 22:43:03.522354 - Found MSG.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/MSG
+2025-04-13 22:43:03.522443 - Found PANEL.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/PANEL
+2025-04-13 22:43:03.522507 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE772.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-13 22:43:03.528173 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-13 22:43:03.528540 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-13 22:43:03.528835 - Found PLI.txt (text/plain) in CBT.V508.FILE772.PDS, moved to PDS/PLI
